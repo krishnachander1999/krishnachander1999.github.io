@@ -1,18 +1,21 @@
-#heading{background:#eeeeee; }
-#abc{background:#eeeeee; }
+#heading{background:#ff6666; }
+#abc{background:#ff6666; }
 
 #box{
-    background:
+    background:white;
     padding: 100px;
     width:500px;
     margin: 50px  auto;
 }
 .xyz{ 
-    
+    border:5px solid aqua;
+    border-radius: 100px;
+    width: 150px;
+    align-self: center;
     
 }
 
 body{
-    background:white;
+    background:#8adfdc;
     margin: 100px auto;
 }
